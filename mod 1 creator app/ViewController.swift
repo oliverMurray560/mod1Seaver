@@ -11,6 +11,8 @@ import AVFoundation
 class ViewController: UIViewController, UITextFieldDelegate {
 var seaver = 1
     var seaver2 = 2
+    var seaver3 = 3
+    
     
     @IBOutlet weak var labelOutlet: UILabel!
     
